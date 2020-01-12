@@ -21,3 +21,9 @@ Then create a .7z, .zip, or .rar archive containing the directory of the server 
 Done! Thank you for contributing. You will always be remembered.
 
 [^ Edited and taken from the CivMap Repo Wiki](https://github.com/gjum/civmap/wiki/Contributing#how-to-contribute-voxelmap-data)
+
+Thanking the following people for contributions:
+- Topher3001
+- ChChris34
+- Assjackets
+- Yellofishy
